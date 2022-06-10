@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianpuang
 - 👀 I’m interested in interesting thing
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning stuff
 - 💞️ I’m looking to collaborate on app development 
 - 📫 How to reach me : puangyixuan@gmail.com
 
